@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: GothamBook;
-    src: url(assets/fonts/GothamBookRegular.otf);
+    src: url(../assets/fonts/GothamBookRegular.otf);
 }
 
 html {
